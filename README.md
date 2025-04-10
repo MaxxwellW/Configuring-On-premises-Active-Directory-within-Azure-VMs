@@ -10,7 +10,6 @@ This tutorial outlines the implementation and allocation of file sharing within 
 
 - Microsoft Azure (Virtual Machines/Computers)
 - Remote Desktop
-- Active Directory Domain Services
 - File Explorer
 
 <h2>Operating Systems Used </h2>
@@ -20,15 +19,14 @@ This tutorial outlines the implementation and allocation of file sharing within 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Creating Files & Creating Permissions as Admin
+- Attempting to access files as Newtork User
+- Attempting to Create within Files as Newtork User
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3qU1Wd2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -38,7 +36,7 @@ This tutorial outlines the implementation and allocation of file sharing within 
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dwF71j5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -48,7 +46,37 @@ This tutorial outlines the implementation and allocation of file sharing within 
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GF31L4S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/hfy6OU4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/50MbvXH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/bmlacAO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/5rmREKI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/mtaX8yM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/BEipzWb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -57,36 +85,3 @@ This tutorial outlines the implementation and allocation of file sharing within 
 </p>
 <p>
 
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-
-</p>
-<br />
