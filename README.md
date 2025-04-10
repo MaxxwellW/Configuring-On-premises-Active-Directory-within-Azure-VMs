@@ -69,7 +69,8 @@ Attempt to access each file shares as a normal user
 <img src="https://i.imgur.com/j1g6P0z.png" />
 </p>
 <p>
-Since there no share properties for "accounting" then it does not show for the user
+Since there no share properties for "accounting" then it does not show for the user.
+<p>
 Try to create new text document in "read-access" 
 <p>
 <img src="https://i.imgur.com/zarPGzx.png" />
