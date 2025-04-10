@@ -77,7 +77,7 @@ Try to create new text document in "read-access"
 </p>
 <p>
   
-Create a new text document in "write-access_"
+Create a new text document in "write-access"
 
 <p>
 <img src="https://i.imgur.com/7nuKflc.png" />
